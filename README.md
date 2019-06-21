@@ -28,7 +28,6 @@ Esta vaina es para activar Windows 10 con llaves **free** que da un servidor ext
 	- En el listado, seleccione **Símbolo del Sistema (Administrador)**.
 4. Ejecute `slmgr /ipk clave`, donde `clave` es la clave.
    > Por ejemplo, si su versión del sistema operativo es **Windows 10 Pro**, el comando sería
-   
    > `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`
 5. Ejecute el comando `slmgr /skms kms8.msguides.com`.
 6. Ejecute el comando `slmgr /ato`.
