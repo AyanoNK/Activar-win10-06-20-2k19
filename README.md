@@ -1,5 +1,6 @@
 ## Activar Windows 10 for Dummies
-**Latest update 06/20/2k19** 
+**Latest update 06/20/2k19**
+
 Esta vaina es para activar Windows 10 con llaves **free** que da un servidor externo.
 > No es virus.
  1. Reconozca el tipo de **Windows 10** de su PC.
