@@ -7,6 +7,7 @@ Esta vaina es para activar Windows 10 con llaves **free** que da un servidor ext
 	 - En su teclado, presione las teclas **Windows + X**.
 	 - En el listado, seleccione **Sistema**.
 	 - Baje, y verá su versión de Windows.
+	 
 	   > Por ejemplo, Windows 10 Home.
 2. Encuentre la **clave** correspondiente a su versión de Windows dentro de la tabla.
 
